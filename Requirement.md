@@ -4,7 +4,7 @@
 Enable every new joiner to become production-ready through structured KT and controlled access provisioning.
 
 ## Process Snapshot
-1. HR initiates onboarding for new joinners.
+1. Msetu Admin initiates onboarding for new joinners in msetu portal where he/she gets joinners mobile no, email address etc for joining.
 2. Temporary ID is created in msetu portal to access KT Session.
 3. Role/department mapping for new joiiners.
 4. Content Admin curates KT assets for role/department wise (add/update/delete videos, PDFs, and documents) and also create KT quiz Master according to Role.
