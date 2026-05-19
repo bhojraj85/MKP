@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33428.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTLearningPlatform.API", "KTLearningPlatform.API\KTLearningPlatform.API.csproj", "{79cf1685-997f-4db5-b33b-1408d3df4b67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTLearningPlatform.Core", "KTLearningPlatform.Core\KTLearningPlatform.Core.csproj", "{2a2b14f4-651e-483c-abc3-be4954973fa2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTLearningPlatform.Infrastructure", "KTLearningPlatform.Infrastructure\KTLearningPlatform.Infrastructure.csproj", "{9ab9f052-eca2-42ec-9b65-883205a56228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTLearningPlatform.Tests", "KTLearningPlatform.Tests\KTLearningPlatform.Tests.csproj", "{ac2eb5d1-2fe3-4c0d-922a-0cb12de3901c}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79cf1685-997f-4db5-b33b-1408d3df4b67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79cf1685-997f-4db5-b33b-1408d3df4b67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79cf1685-997f-4db5-b33b-1408d3df4b67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79cf1685-997f-4db5-b33b-1408d3df4b67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2a2b14f4-651e-483c-abc3-be4954973fa2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2a2b14f4-651e-483c-abc3-be4954973fa2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ab9f052-eca2-42ec-9b65-883205a56228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ab9f052-eca2-42ec-9b65-883205a56228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ac2eb5d1-2fe3-4c0d-922a-0cb12de3901c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ac2eb5d1-2fe3-4c0d-922a-0cb12de3901c}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

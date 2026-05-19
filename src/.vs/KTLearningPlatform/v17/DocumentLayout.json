@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|d:\\activity\\bhojraj\\github-copilet\\mkps\\mkp\\src\\ktlearningplatform.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|solutionrelative:ktlearningplatform.core\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|d:\\activity\\bhojraj\\github-copilet\\mkps\\mkp\\src\\ktlearningplatform.core\\interfaces\\serviceinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|solutionrelative:ktlearningplatform.core\\interfaces\\serviceinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB9F052-ECA2-42EC-9B65-883205A56228}|KTLearningPlatform.Infrastructure\\KTLearningPlatform.Infrastructure.csproj|d:\\activity\\bhojraj\\github-copilet\\mkps\\mkp\\src\\ktlearningplatform.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB9F052-ECA2-42EC-9B65-883205A56228}|KTLearningPlatform.Infrastructure\\KTLearningPlatform.Infrastructure.csproj|solutionrelative:ktlearningplatform.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|d:\\activity\\bhojraj\\github-copilet\\mkps\\mkp\\src\\ktlearningplatform.core\\dtos\\platformdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|solutionrelative:ktlearningplatform.core\\dtos\\platformdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|d:\\activity\\bhojraj\\github-copilet\\mkps\\mkp\\src\\ktlearningplatform.core\\entities\\platformentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|solutionrelative:ktlearningplatform.core\\entities\\platformentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|d:\\activity\\bhojraj\\github-copilet\\mkps\\mkp\\src\\ktlearningplatform.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2B14F4-651E-483C-ABC3-BE4954973FA2}|KTLearningPlatform.Core\\KTLearningPlatform.Core.csproj|solutionrelative:ktlearningplatform.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "KTLearningPlatform.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "KTLearningPlatform.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T09:36:32.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceInterfaces.cs",
+              "DocumentMoniker": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\Interfaces\\ServiceInterfaces.cs",
+              "RelativeDocumentMoniker": "KTLearningPlatform.Core\\Interfaces\\ServiceInterfaces.cs",
+              "ToolTip": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\Interfaces\\ServiceInterfaces.cs",
+              "RelativeToolTip": "KTLearningPlatform.Core\\Interfaces\\ServiceInterfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T09:36:13.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "KTLearningPlatform.Core\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "KTLearningPlatform.Core\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T09:36:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformEntities.cs",
+              "DocumentMoniker": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\Entities\\PlatformEntities.cs",
+              "RelativeDocumentMoniker": "KTLearningPlatform.Core\\Entities\\PlatformEntities.cs",
+              "ToolTip": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\Entities\\PlatformEntities.cs",
+              "RelativeToolTip": "KTLearningPlatform.Core\\Entities\\PlatformEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T09:36:05.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlatformDtos.cs",
+              "DocumentMoniker": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\DTOs\\PlatformDtos.cs",
+              "RelativeDocumentMoniker": "KTLearningPlatform.Core\\DTOs\\PlatformDtos.cs",
+              "ToolTip": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\DTOs\\PlatformDtos.cs",
+              "RelativeToolTip": "KTLearningPlatform.Core\\DTOs\\PlatformDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T09:36:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "KTLearningPlatform.Core\\Class1.cs",
+              "ToolTip": "D:\\Activity\\Bhojraj\\Github-Copilet\\MKPS\\MKP\\src\\KTLearningPlatform.Core\\Class1.cs",
+              "RelativeToolTip": "KTLearningPlatform.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T07:47:42.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

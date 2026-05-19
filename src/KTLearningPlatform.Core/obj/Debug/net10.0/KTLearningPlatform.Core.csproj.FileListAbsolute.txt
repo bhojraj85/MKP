@@ -1,0 +1,12 @@
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\bin\Debug\net10.0\KTLearningPlatform.Core.deps.json
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\bin\Debug\net10.0\KTLearningPlatform.Core.dll
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\bin\Debug\net10.0\KTLearningPlatform.Core.pdb
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\KTLearningPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\KTLearningPlatform.Core.AssemblyInfoInputs.cache
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\KTLearningPlatform.Core.AssemblyInfo.cs
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\KTLearningPlatform.Core.csproj.CoreCompileInputs.cache
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\KTLearningPlatform.Core.sourcelink.json
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\KTLearningPlatform.Core.dll
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\refint\KTLearningPlatform.Core.dll
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\KTLearningPlatform.Core.pdb
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Core\obj\Debug\net10.0\ref\KTLearningPlatform.Core.dll

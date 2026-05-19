@@ -1,0 +1,16 @@
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\bin\Debug\net10.0\KTLearningPlatform.Infrastructure.deps.json
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\bin\Debug\net10.0\KTLearningPlatform.Infrastructure.dll
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\bin\Debug\net10.0\KTLearningPlatform.Infrastructure.pdb
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\bin\Debug\net10.0\KTLearningPlatform.Core.dll
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\bin\Debug\net10.0\KTLearningPlatform.Core.pdb
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearningPlatform.Infrastructure.csproj.AssemblyReference.cache
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearningPlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearningPlatform.Infrastructure.AssemblyInfoInputs.cache
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearningPlatform.Infrastructure.AssemblyInfo.cs
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearningPlatform.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearningPlatform.Infrastructure.sourcelink.json
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearni.598A1E1C.Up2Date
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearningPlatform.Infrastructure.dll
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\refint\KTLearningPlatform.Infrastructure.dll
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\KTLearningPlatform.Infrastructure.pdb
+D:\Activity\Bhojraj\Github-Copilet\MKPS\MKP\src\KTLearningPlatform.Infrastructure\obj\Debug\net10.0\ref\KTLearningPlatform.Infrastructure.dll
